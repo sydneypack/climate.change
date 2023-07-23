@@ -1,3 +1,7 @@
+**SYDNEY WAKABI** @environmental advocate!! 
+
+A WORLD OF CHANGE, FROM DESTRUCTION TO CREATION!!
+
 # climate.change
 
 Climate change refers to long-term shifts in temperatures and weather patterns. Such 
