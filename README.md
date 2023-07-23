@@ -7,6 +7,8 @@ https://www.un.org/en/climatechange/what-is-climate-change
 
 https://en.wikipedia.org/wiki/Climate_change_in_Somalia
 
+https://www.climatelinks.org/sites/default/files/asset/document/2021-07/2021_USAID_CDCS-Annex-Somalia.pdf
+
 https://climate.nasa.gov/effects/
 
 A WORLD OF CHANGE, FROM DESTRUCTION TO CREATION!!
@@ -38,6 +40,9 @@ Destructive storms have become more intense and more frequent in many regions. A
 Increased drought
 
 Climate change is changing water availability, making it scarcer in more regions. Global warming exacerbates water shortages in already water-stressed regions and is leading to an increased risk of agricultural droughts affecting crops, and ecological droughts increasing the vulnerability of ecosystems. Droughts can also stir destructive sand and dust storms that can move billions of tons of sand across continents. Deserts are expanding, reducing land for growing food. Many people now face the threat of not having enough water on a regular basis.
+
+![image](https://github.com/sydneypack/climate.change/assets/96417805/38b1a18d-c656-469b-b5f0-9beca7dccc08)
+
 
 A warming, rising ocean
 
