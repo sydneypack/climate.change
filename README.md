@@ -7,6 +7,7 @@ https://www.un.org/en/climatechange/what-is-climate-change
 
 https://en.wikipedia.org/wiki/Climate_change_in_Somalia
 
+https://climate.nasa.gov/effects/
 
 A WORLD OF CHANGE, FROM DESTRUCTION TO CREATION!!
 
@@ -15,6 +16,9 @@ A WORLD OF CHANGE, FROM DESTRUCTION TO CREATION!!
 Climate change refers to long-term shifts in temperatures and weather patterns. Such 
 shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions. But since the 1800s, human activities have been the
 main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.
+
+![image](https://github.com/sydneypack/climate.change/assets/96417805/7d77eb82-7e5f-4280-afb5-2fc977fb2057)
+
 
 Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures.
 
@@ -67,9 +71,21 @@ Climate change is expected to put significant strain on already scarce water and
 Temperature and weather changes
 Further information: Geography of Somalia § Climate
 
-Somalia is generally hot and dry, with two rainy seasons. Mean temperatures in Somalia are amongst the highest worldwide. Hot conditions prevail throughout the year, in particular in the southwest near the border to Ethiopia, where annual mean temperatures surpass 29 °C. The main rainy season is from April to June, and the second rainy season is from October to December. Annual precipitation in the hot and arid northern area mostly amounts to under 250 mm and decrease to less than 100 mm in the very northeast. The central plateau receives between 200 and 300 mm of precipitation, while it increases toward the South to around 400 to 500 mm of rainfall annually. Southwestern and northwestern regions receive the most precipitation, with an average between 500 and 700 mm.[4]
+Somalia is generally hot and dry, with two rainy seasons. Mean temperatures in Somalia are amongst the highest worldwide. Hot conditions prevail throughout the year, in particular in the southwest near the border to Ethiopia, where annual mean temperatures surpass 29 °C. The main rainy season is from April to June, and the second rainy season is from October to December. Annual precipitation in the hot and arid northern area mostly amounts to under 250 mm and decrease to less than 100 mm in the very northeast. The central plateau receives between 200 and 300 mm of precipitation, while it increases toward the South to around 400 to 500 mm of rainfall annually. Southwestern and northwestern regions receive the most precipitation, with an average between 500 and 700 mm.
 
-The climate has changed over the last several decades:[5]
+In 2014 Somalia was responsible for 36.46 MtCO₂e (metric
+greenhouse gas (GHG) emissions, or 0.07% of the world to
+- Per capita Somalis produced 1.02 tCO₂e of GHG emission
+Worldwide is 6.73 tCO₂e per capita.
+- Agriculture was the most significant emitting sector, at 56%
+- Land-use change and forestry (LUCF) accounted for 36% o
+country’s total emissions.
+- ALand use change and forestry reduce emission by 16% b
+1990-2014.
+- Somalia’s population has grown by 390% between 1960-20
+approximately 13.5 million people in 2014.
+
+The climate has changed over the last several decades:
 
     There has been a gradual, continuous temperature increase of 1 to 1.5°C since 1991,
     Extreme weather impacted the country, with severe drought in 2011 and 2017.
@@ -83,6 +99,16 @@ Projections models show that[7]
 
 Sea level rise
 
-The sea level is projected to rise with high certainty under future emission scenarios. The median climate models project a sea level rise of 12 cm until 2030, 20 cm until 2050 and 36 cm until 2080 under RCP2.6, as compared to the year 2000. Under RCP6.0 (emissions peak around 2080, then decline), the sea level is projected to rise by 11 cm until 2030, 21 cm until 2050 and 42 cm until 2080.[4][7]
+The sea level is projected to rise with high certainty under future emission scenarios. The median climate models project a sea level rise of 12 cm until 2030, 20 cm until 2050 and 36 cm until 2080 under RCP2.6, as compared to the year 2000. Under RCP6.0 (emissions peak around 2080, then decline), the sea level is projected to rise by 11 cm until 2030, 21 cm until 2050 and 42 cm until 2080.
 
 The projected sea level rise threatens the livelihoods of coastal communities, particularly in southern Somalia, including the country’s capital Mogadishu, and may cause saline intrusion in coastal waterways and groundwater reservoirs.
+
+**Policies and legislation**
+Further information: Paris Agreement
+
+![image](https://github.com/sydneypack/climate.change/assets/96417805/00a0841e-d6d7-473b-9993-4c9dfb30d396)
+
+
+Somalia was an early signatory of the Paris Climate Agreement in 2016.
+
+The country formulated its first National Adaptation Programme of Action (NAPA) in 2013. The program developed with the support of the UN Development Programme (UNDP), was Somalia’s first step towards a nationwide climate adaptation strategy. 
